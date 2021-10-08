@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Lagrange</title>
+		<description>a minimalist Jekyll theme</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>미적분학 - 함수(Function)</title>
+				
+					<dc:creator>Ju-Hyeon Nam</dc:creator>
+				
+				
+					<description>&lt;p&gt;미적분학은 물리학 현상(자유낙하운동 등), 생물학(박테리아 증식 방정식, 생물 군집 특성 분석 등), 사회학 등 많은 분야에서 활용되고 있어 문이과 가리지 않고 모든 대학교의 기본 과목으로 채택될 정도로 아주 중요한 기본과목이다. 
+ 나 역시 수학과 출신이기에 신입생 때 미적분학을 수강하고 재밌게 들었던 기억이 있다. 하지만, 신입생 이후 직접적으로 미적분학을 사용할 일이 없다가 대학원에 입학하니 미적분학에 대한 기초를 다시 잡아야할 거 같았기 때문에 포스팅으로 정리하고자 한다.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 05 Oct 2021 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/%ED%95%A8%EC%88%98</link>
+				<guid isPermaLink="true">http://localhost:4000/%ED%95%A8%EC%88%98</guid>
+			</item>
+		
+			<item>
+				<title>Welcome to Lagrange!</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/welcome-to-lagrange</link>
+				<guid isPermaLink="true">http://localhost:4000/welcome-to-lagrange</guid>
+			</item>
+		
+			<item>
+				<title>Getting Started</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;lagrange&quot;&gt;Lagrange&lt;/h1&gt;
+</description>
+				
+				<pubDate>Sat, 10 Oct 2015 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/getting-started</link>
+				<guid isPermaLink="true">http://localhost:4000/getting-started</guid>
+			</item>
+		
+			<item>
+				<title>Text Formatting Examples</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
+</description>
+				
+				<pubDate>Wed, 01 Jan 2014 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/text-formatting-examples</link>
+				<guid isPermaLink="true">http://localhost:4000/text-formatting-examples</guid>
+			</item>
+		
+			<item>
+				<title>Learning Resources</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;p&gt;The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 10 Oct 2013 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/learning-resources</link>
+				<guid isPermaLink="true">http://localhost:4000/learning-resources</guid>
+			</item>
+		
+			<item>
+				<title>About the Author</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;p&gt;Hi there! I’m Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out &lt;a href=&quot;https://www.lenpaul.com/&quot;&gt;my personal website&lt;/a&gt; for more information on my other projects (including more Jekyll themes!), as well as some of my writing.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 04 Apr 2013 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/about-the-author</link>
+				<guid isPermaLink="true">http://localhost:4000/about-the-author</guid>
+			</item>
+		
+	</channel>
+</rss>
