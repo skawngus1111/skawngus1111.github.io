@@ -76,7 +76,7 @@ tags: [Mathematcis, Calculus]
 사실 위에서 정의한 대수 함수 정의는 많은 수학 전공자들이 보면 대노할 정의이다. 왜냐하면 더 정확한 정의가 따로 있는 데 우리는 이해를 목표로 하기 때문에 이 부분에 대해서는 잠시 넘어가도록 하겠다.
 
 ### 6). 삼각 함수(Trigonal Function)
-<center><img src="./assets/img/trigonal_model.png" width="80%" height="80%"></center>
+<center><img src="./assets/img/tri_model.png" width="80%" height="80%"></center>
 
 ### 7). 지수 함수(Exponential Function) : $f(x) = a^{x}$
 <center><img src="./assets/img/expo_model.png" width="80%" height="80%"></center>
