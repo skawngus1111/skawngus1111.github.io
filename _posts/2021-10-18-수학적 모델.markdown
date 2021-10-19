@@ -39,7 +39,23 @@ tags: [Mathematcis, Calculus]
  다항 모델은 선형 모델보다 더 복잡한 모델로 $n + 1$개의 변수($a_{n}, \dots, a_{1}, a_{0}$)로 이루어진 수학적 모델이다. 여기서 $a_{0}$는 선형 모델에서 $b$와 동일한 역할로 $y$-절편을 의미한다. 그리고 $a_{n}, \dots, a_{1}$은 계수(coefficient)라고 한다. 
 
  여기서 다항식의 복잡도를 조절하는 파라미터가 바로 차수(degree) $n$이다. $n$이 커질수록 다항 모델은 복잡한 데이터를 더 잘 표현할 수 있다. 그리고 $n = 1$이라면 방금 봤던 선형 함수가 된다. 
- 
- $n = 2$일 때는 이차 다항 모델(Quadratic Polynomial Model)로 $a_{2}$가 양수면 아래로 볼록, 음수면 위로 볼록한 함수가 된다. 
+ <center><img src="./assets/img/poly_model1.png" width="80%" height="80%"></center>
 
- $n = 3$일 때는 삼차 다항 모델(Cubic Polynomial Model)이라고 한다. 
+ $n = 2$일 때는 이차 다항 모델(Quadratic Polynomial Model)로 $a_{2}$가 양수면 아래로 볼록, 음수면 위로 볼록한 함수가 된다. 
+ <center><img src="./assets/img/poly_model2.png" width="80%" height="80%"></center>
+
+ $n = 3$일 때는 삼차 다항 모델(Cubic Polynomial Model)이라고 한다. 뿐만 아니라 $n = 4$일 때는 4차, $n = 5$일 때는 5차와 같이 더 다양한 다항 모델을 만들어 볼 수 있다.
+
+ ### 3). 거듭제곱 함수(Power Function) : $f(x) = x^{a}$
+ 거듭제곱 함수는 $a$에 따라서 그 모양이 결정된다. 
+<center><img src="./assets/img/power_model1.png" width="80%" height="80%"></center>
+
+먼저, $a = n$이고 $n$이 양의 정수일 때를 고려해보자. 그러면 $f(x) = x^{n}$은 다항모델에서 다른 항 없이 최고차항만 있는 단항 함수가 된다. 예를 들어 위의 그림과 같이 $x^{1}, x^{2}, x^{3}, \dots $가 될 수 있다.
+
+<center><img src="./assets/img/power_model2.png" width="80%" height="80%"></center>
+
+다음으로 $a = \frac{1}{n}$인 경우를 고려해보자. 그러면 $f(x) = x^{\frac{1}{n}} = \sqrt[n]{x}$가 된다. 이러한 함수를 우리는 앞으로 **근 함수(root function)**이라고 하자. 만약, $n = 2$라면 위에서 그림(a)와 같이 $f(x) = \sqrt{x}$가 되고 정의역은 $[0, \infty)$가 된다. 그리고 $n = 3$이라면 그림(b)와 같이 $f(x) = \sqrt[3]{x}$가 되고 정의역은 $\mathbb{R}$이 된다. 이를 관찰해보면 근 함수 역시 $a = n$일때와 마찬가지로 $n$이 짝수, 홀수인지에 따라서 그 특성이 결정된다. 만약 $n$이 짝수라면 그림(a)와 유사해지고 홀수라면 그림(b)와 유사해진다. 
+
+<center><img src="./assets/img/power_model3.png" width="80%" height="80%"></center>
+
+마지막으로 $a = -1$일 경우에는 $f(x) = \frac{1}{x}$가 된고 이를 역함수(우리가 알고 있는 $f^{-1}(x)$와 다르니 유의하자.) 또는 역수함수라고 한다. 
