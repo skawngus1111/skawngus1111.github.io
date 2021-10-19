@@ -46,7 +46,7 @@ tags: [Mathematcis, Calculus]
 
  $n = 3$일 때는 삼차 다항 모델(Cubic Polynomial Model)이라고 한다. 뿐만 아니라 $n = 4$일 때는 4차, $n = 5$일 때는 5차와 같이 더 다양한 다항 모델을 만들어 볼 수 있다.
 
- ### 3). 거듭제곱 함수(Power Function) : $f(x) = x^{a}$
+### 3). 거듭제곱 함수(Power Function) : $f(x) = x^{a}$
  거듭제곱 함수는 $a$에 따라서 그 모양이 결정된다. 
 <center><img src="./assets/img/power_model1.png" width="80%" height="80%"></center>
 
@@ -59,3 +59,10 @@ tags: [Mathematcis, Calculus]
 <center><img src="./assets/img/power_model3.png" width="80%" height="80%"></center>
 
 마지막으로 $a = -1$일 경우에는 $f(x) = \frac{1}{x}$가 된고 이를 역함수(우리가 알고 있는 $f^{-1}(x)$와 다르니 유의하자.) 또는 역수함수라고 한다. 
+
+### 4). 유리 함수(Rational Function) : $f(x) = \frac{P(x)}{Q(x)}$
+유리 함수는 분자와 분모가 모두 다항함수로 이루어진 함수이다. 유리 함수에서 가장 중요한 것은 바로 정의역이다. 왜냐하면 일반적으로 우리가 분수를 정의할 때 가장 먼저 신경써야하는 것은 분모가 0이 되면 안되는 것이기 때문에 $Q(x) = 0$인 구간은 정의역에서 빼주어야한다. 
+
+<center><img src="./assets/img/rational_model.png" width="80%" height="80%"></center>
+
+예를 들어서 $f(x) = \frac{2x^{4} - x^{2} + 1}{x^{2} - 4}$의 정의역은 $x^{2} - 4 \neq 0$인 모든 구간이기 때문에 $(-\infty, -2) \cup (-2, 2) \cup (2, \infty)$이다. 
