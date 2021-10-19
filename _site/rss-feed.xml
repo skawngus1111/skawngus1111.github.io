@@ -2,9 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Lagrange</title>
-		<description>a minimalist Jekyll theme</description>
+		<description>Mathematics and Computer Science</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>미적분학 - 수학적 모델(Mathematical Modeling)</title>
+				
+					<dc:creator>Ju-Hyeon Nam</dc:creator>
+				
+				
+					<description>&lt;p&gt;지난 포스팅에서는 함수에 대한 간단한 정의와 함께 우함수와 기함수, 그리고 증가함수와 감소함수에 대해서 알아보았다. 오늘은 실제 세계의 문제를 풀기 위해서 방정식을 설계하는 모델링 방법과 어떤 수학적 모델들이 있는 지에 대해 알아보자.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 18 Oct 2021 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/%EC%88%98%ED%95%99%EC%A0%81-%EB%AA%A8%EB%8D%B8</link>
+				<guid isPermaLink="true">http://localhost:4000/%EC%88%98%ED%95%99%EC%A0%81-%EB%AA%A8%EB%8D%B8</guid>
+			</item>
 		
 			<item>
 				<title>미적분학 - 함수(Function)</title>
