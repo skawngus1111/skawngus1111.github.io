@@ -79,3 +79,16 @@ tags: [Mathematcis, Calculus]
 <center><img src="./assets/img/trigonal_model.png" width="80%" height="80%"></center>
 
 삼각함수는 우리가 가장 잘 알고 있는 $\sin$과 $\cos$ 함수를 기반으로 만든 함수들이다. 따라서 $\tan{x} = \frac{\sin{x}}{\cos{x}}$ 역시 삼각함수가 된다. 이러한 삼각함수 중 가장 기초적인 $\sin{x}$과 $\cos{x}$ 함수는 항상 $[-1, 1]$의 구간의 값을 가지고 있다는 것이 특징이다. 따라서 모든 $x$에 대해서 $|\sin{x}|, |\cos{x}| \le 1$를 만족한다. 
+
+### 7). 지수 함수(Exponential Function) : $f(x) = a^{x}$
+<center><img src="./assets/img/expo_model.png" width="80%" height="80%"></center>
+
+지수함수는 $f(x) = a^{x}$ 꼴을 가진 함수를 의미한다. 거듭제곱 함수 $f(x) = x^{a}$와 비교해보면 $a$와 $x$의 위치가 바뀐 것을 볼 수 있으니 혼동하면 안된다. 거듭제곱 함수와 마찬가지로 $a$의 범위에 따라 지수함수는 그 모양이 변한다. 만약 $a > 1$이라면 그림(a)와 같이 우상향 그래프가 되고 $a < 1$이라면 그림(b)와 같이 우하향 그래프가 그려진다. 
+
+### 8). 로그 함수(Logarithmic Function) : $f(x) = \log_{a}{x}$
+<center><img src="./assets/img/log_model.png" width="80%" height="80%"></center>
+
+로그함수는 지수함수의 역함수(inverse function)을 의미한다. 여기서 $a$는 밑(base)라고 불리고 $a$의 값에 따라서 그래프의 모양이 변화한다. 로그함수는 아주 중요한 함수이기 때문에 이후에 더 자세히 설명하도록 하자.
+
+### 9). 초월 함수(Transendental Function) 
+초월함수는 대수함수가 아닌 모든 함수를 의미한다.
