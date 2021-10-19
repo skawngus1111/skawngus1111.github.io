@@ -66,3 +66,16 @@ tags: [Mathematcis, Calculus]
 <center><img src="./assets/img/rational_model.png" width="80%" height="80%"></center>
 
 예를 들어서 $f(x) = \frac{2x^{4} - x^{2} + 1}{x^{2} - 4}$의 정의역은 $x^{2} - 4 \neq 0$인 모든 구간이기 때문에 $(-\infty, -2) \cup (-2, 2) \cup (2, \infty)$이다. 
+
+### 5). 대수 함수(Algebraic Function)
+지금까지 보았던 선형함수, 거듭제곱 함수, 유리함수는 아마 한번쯤을 들어보았을 것이다.하지만 대수 함수(Algebraic Function)에 대해서는 들어보지 못한 사람들이 있을 텐데 생각보다 간단하다. 
+
+## 정의
+함수 $f$가 대수적 연산(더하기, 뺴기, 곱하기, 나누기, 제곱근 등)의 조합으로 이루어진다면 **대수 함수**이다. 
+
+사실 위에서 정의한 대수 함수 정의는 많은 수학 전공자들이 보면 대노할 정의이다. 왜냐하면 더 정확한 정의가 따로 있는 데 우리는 이해를 목표로 하기 때문에 이 부분에 대해서는 잠시 넘어가도록 하겠다.
+
+### 6). 삼각 함수(Trigonal Function)
+<center><img src="./assets/img/trigonal_model.png" width="80%" height="80%"></center>
+
+ 삼각함수는 우리가 가장 잘 알고 있는 $\sin$과 $\cos$ 함수를 기반으로 만든 함수들이다. 따라서 $\tan{x} = \frac{\sin{x}}{\cos{x}}$ 역시 삼각함수가 된다. 이러한 삼각함수 중 가장 기초적인 $\sin{x}$과 $\cos{x}$ 함수는 항상 $[-1, 1]$의 구간의 값을 가지고 있다는 것이 특징이다. 따라서 모든 $x$에 대해서 $|\sin{x}|, |\cos{x}| \le 1$를 만족한다. 
