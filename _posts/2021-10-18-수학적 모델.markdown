@@ -78,8 +78,6 @@ tags: [Mathematcis, Calculus]
 ### 6). 삼각 함수(Trigonal Function)
 <center><img src="./assets/img/trigonal_model.png" width="80%" height="80%"></center>
 
-삼각함수는 우리가 가장 잘 알고 있는 $\sin$과 $\cos$ 함수를 기반으로 만든 함수들이다. 따라서 $\tan{x} = \frac{\sin{x}}{\cos{x}}$ 역시 삼각함수가 된다. 이러한 삼각함수 중 가장 기초적인 $\sin{x}$과 $\cos{x}$ 함수는 항상 $[-1, 1]$의 구간의 값을 가지고 있다는 것이 특징이다. 따라서 모든 $x$에 대해서 $|\sin{x}|, |\cos{x}| \le 1$를 만족한다. 
-
 ### 7). 지수 함수(Exponential Function) : $f(x) = a^{x}$
 <center><img src="./assets/img/expo_model.png" width="80%" height="80%"></center>
 
