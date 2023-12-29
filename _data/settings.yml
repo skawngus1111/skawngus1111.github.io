@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Mr. Ju-Hyeon Nam', title: 'Researcher', department: 'Computer Engineering', institution: 'Inha University', institution_address: '16, Soseong-ro, Michuhol-gu, Incheon, Republic of Korea', email: 'jhnam0514@inha.edu', office: 'HiTech 1101'}
+- {name: 'Mr. Ju-Hyeon Nam', title: 'AI Researcher', department: 'Computer Engineering', institution: 'Inha University', institution_address: '16, Soseong-ro, Michuhol-gu, Incheon, Republic of Korea', email: 'jhnam0514@inha.edu', office: 'HiTech 1101', image: 'assets/img/contact.jpg'}
