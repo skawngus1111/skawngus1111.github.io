@@ -1,9 +1,11 @@
 featured:
+- {name: 'Nam, Ju-Hyeon, and Sang-Chul Lee. "FSDA: Frequency re-scaling in data augmentation for corruption-robust image classification." Pattern Recognition (2024): 110332.'}
 - {name: 'Nam, Ju-Hyeon, and Sang-Chul Lee. "Random image frequency aggregation dropout in image classification for deep convolutional neural networks." Computer Vision and Image Understanding 232 (2023): 103684.'}
 - {name: 'Gu, A-Rom, Ju-Hyeon Nam, and Sang-Chul Lee. "FBI-Net: Frequency-Based Image Forgery Localization via Multitask Learning With Self-Attention." IEEE Access 10 (2022): 62751-62762.'}
 - {name: 'Syazwany, Nur Suriza, Ju-Hyeon Nam, and Sang-Chul Lee. "MM-BiFPN: multi-modality fusion network with Bi-FPN for MRI brain tumor segmentation." IEEE Access 9 (2021): 160708-160720.'}
 
 index:
+- {name: 'Nam, Ju-Hyeon, and Sang-Chul Lee. "FSDA: Frequency re-scaling in data augmentation for corruption-robust image classification." Pattern Recognition (2024): 110332.'}
 - {name: 'Nam, Ju-Hyeon, and Sang-Chul Lee. "Random image frequency aggregation dropout in image classification for deep convolutional neural networks." Computer Vision and Image Understanding 232 (2023): 103684.'}
 - {name: 'Gu, A-Rom, Ju-Hyeon Nam, and Sang-Chul Lee. "FBI-Net: Frequency-Based Image Forgery Localization via Multitask Learning With Self-Attention." IEEE Access 10 (2022): 62751-62762.'}
 - {name: 'Syazwany, Nur Suriza, Ju-Hyeon Nam, and Sang-Chul Lee. "MM-BiFPN: multi-modality fusion network with Bi-FPN for MRI brain tumor segmentation." IEEE Access 9 (2021): 160708-160720.'}
