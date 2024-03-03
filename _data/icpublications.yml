@@ -1,7 +1,9 @@
 featured:
+- {name: 'Ju-Hyeon Nam, Nur Suriza Syazwany, Su Jung Kim and Sang-Chul Lee, "Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention", in proceedings on Computer Vision and Pattern Recognition (CVPR2024), Seattle, USA, 2024'}
 - {name: 'Nam, Ju-Hyeon, et al. "M3FPolypSegNet: Segmentation Network with Multi-Frequency Feature Fusion for Polyp Localization in Colonoscopy Images." 2023 IEEE International Conference on Image Processing (ICIP). IEEE, 2023.'}
 - {name: 'Nam, Ju-Hyeon, and Sang-Chul Lee. "Frequency filtering for data augmentation in X-Ray image classification." 2021 IEEE International Conference on Image Processing (ICIP). IEEE, 2021.'}
 
 index:
+- {name: 'Ju-Hyeon Nam, Nur Suriza Syazwany, Su Jung Kim and Sang-Chul Lee, "Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention", in proceedings on Computer Vision and Pattern Recognition (CVPR2024), Seattle, USA, 2024'}
 - {name: 'Nam, Ju-Hyeon, et al. "M3FPolypSegNet: Segmentation Network with Multi-Frequency Feature Fusion for Polyp Localization in Colonoscopy Images." 2023 IEEE International Conference on Image Processing (ICIP). IEEE, 2023.'}
 - {name: 'Nam, Ju-Hyeon, and Sang-Chul Lee. "Frequency filtering for data augmentation in X-Ray image classification." 2021 IEEE International Conference on Image Processing (ICIP). IEEE, 2021.'}
