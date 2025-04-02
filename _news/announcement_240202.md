@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ju-Hyeon Nam received the ***Participation Award*** at the IPIU2024 in Jeju.
+Ju-Hyeon Nam received the ***Paper Award*** at the IPIU2024 in Jeju.
