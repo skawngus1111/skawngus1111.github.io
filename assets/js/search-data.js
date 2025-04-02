@@ -440,16 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-my-first-author-paper-is-accepted-in-cvpr2024-bk21-if-4-nam-ju-hyeon-et-al-modality-agnostic-domain-generalizable-medical-image-segmentation-by-multi-frequency-in-multi-scale-attention-proceedings-of-the-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-2024",
+          title: 'My first author paper is accepted in CVPR2024 (BK21 IF:4), Nam, Ju-Hyeon, et...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-my-first-author-paper-is-accepted-in-elsevier-pattern-recognition-if-7-5-2024-q1-nam-ju-hyeon-and-sang-chul-lee-fsda-frequency-re-scaling-in-data-augmentation-for-corruption-robust-image-classification-pattern-recognition-150-2024-110332",
+          title: 'My first author paper is accepted in Elsevier Pattern Recognition (IF: 7.5/2024, Q1),...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-my-first-author-paper-is-accepted-in-icip2024-nam-ju-hyeon-et-al-vizecgnet-visual-ecg-image-network-for-cardiovascular-diseases-classification-with-multi-modal-training-and-knowledge-distillation-2024-ieee-international-conference-on-image-processing-icip-ieee-2024",
+          title: 'My first author paper is accepted in ICIP2024, Nam, Ju-Hyeon, et al. “Vizecgnet:...',
+          description: "",
+          section: "News",},{id: "news-my-third-author-paper-is-accepted-in-elsevier-engineering-applications-of-artificial-intelligence-if-7-5-2024-q1-park-seo-hyeong-et-al-integrating-multimodal-contrastive-learning-with-prototypical-domain-alignment-for-unsupervised-domain-adaptation-of-time-series-engineering-applications-of-artificial-intelligence-137-2024-109205",
+          title: 'My third author paper is accepted in Elsevier Engineering Applications of Artificial Intelligence...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
