@@ -34,7 +34,7 @@ Additionally, he actively researches modality-agnostic and domain-generalizable 
 
 Ju-Hyeon has made significant contributions to medical image processing, frequency-domain analysis, and multi-modality fusion. He has introduced novel methods such as M3FPolypSegNet and MADGNet, which are accepted in ICIP2023 and CVPR2024 for medical image segmentation.
 
-He actively contributes as a reviewer for top-tier conferences, including CVPR (2021-2024), ICCV (2021, 2023), ICLR (2022), AAAI (2021, 2022), and ICPR (2024), and has also reviewed manuscripts for prestigious journals such as Computer Vision and Image Understanding (Elsevier), Pattern Recognition (Elsevier), Journal of Medical Systems (Springer), and IEEE Access.
+He actively contributes as a reviewer for top-tier conferences, including CVPR (2021-2024), ICCV (2021, 2023), ICLR (2022), and AAAI (2021-2025), and has also reviewed manuscripts for prestigious journals such as Computer Vision and Image Understanding (Elsevier), Pattern Recognition (Elsevier), Journal of Medical Systems (Springer), and IEEE Access.
 
 Ju-Hyeon earned his bachelor's degree in Mathematics from Inha University in 2021 (Summa Cum Laude) and his master's degree in Computer Engineering from the same institution in 2023.
 
