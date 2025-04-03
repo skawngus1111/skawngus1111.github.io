@@ -440,8 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-ju-hyeon-nam-received-the-paper-award-at-the-ksc2020-in-jeju",
+            },},{id: "news-ju-hyeon-nam-received-the-top-prize-in-the-field-of-innovation-at-bigcontest2019",
+          title: 'Ju-Hyeon Nam received the Top Prize in the field of Innovation at BigContest2019....',
+          description: "",
+          section: "News",},{id: "news-ju-hyeon-nam-received-the-paper-award-at-the-ksc2020-in-jeju",
           title: 'Ju-Hyeon Nam received the Paper Award at the KSC2020 in Jeju.',
+          description: "",
+          section: "News",},{id: "news-he-graduated-summa-cum-laude-with-a-bachelor-s-degree-in-mathematics-from-inha-university",
+          title: 'He graduated summa cum laude with a bachelor’s degree in mathematics from Inha...',
           description: "",
           section: "News",},{id: "news-his-first-author-paper-is-accepted-in-elsevier-computer-vision-and-image-understanding-if-4-3-2024-q1-nam-j-h-amp-amp-lee-s-c-2023-random-image-frequency-aggregation-dropout-in-image-classification-for-deep-convolutional-neural-networks-computer-vision-and-image-understanding-232-103684",
           title: 'His first author paper is accepted in Elsevier Computer Vision and Image Understanding...',
@@ -520,35 +526,28 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6A%68%6E%61%6D%30%35%31%34@%69%6E%68%61.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/skawngus1111", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/ju-hyeon-nam-87993620a", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=gGmBOuQAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
