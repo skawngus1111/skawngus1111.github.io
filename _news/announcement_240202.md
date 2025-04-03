@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ju-Hyeon Nam received the ***Paper Award*** at the IPIU2024 in Jeju.
+His paper titled 'Unsupervised Fourier Transform Domain Adaptation Method Using Multivariate Gaussian Masks' received the ***Best Paper Award*** at IPIU 2024.

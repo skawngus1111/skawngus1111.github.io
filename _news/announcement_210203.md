@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ju-Hyeon Nam received the ***Paper Award*** at the KSC2020 in Jeju.
+His paper titled 'AITSC-Net: Brightness Correction, Object Segmentation, and Classification Neural Network for COVID-19 Diagnosis' received the ***Best Paper Award*** at KSC 2020.
