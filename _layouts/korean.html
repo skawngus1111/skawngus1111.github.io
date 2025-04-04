@@ -1,0 +1,8 @@
+{% for entry in bibliography %}
+  <div class="bib-entry">
+    {{ entry.author }} ({{ entry.year }}). <strong>{{ entry.title }}</strong>. {{ entry.journal }}.
+    {% if entry.note %}
+      <span class="award">🏆 <span class="award-text">{{ entry.note }}</span></span>
+    {% endif %}
+  </div>
+{% endfor %}

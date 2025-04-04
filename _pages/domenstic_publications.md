@@ -15,6 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --query @*[keywords~=domestic] %}
+{% bibliography --query @*[keywords~=domestic] --template korean %}
 
 </div>
