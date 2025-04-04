@@ -78,10 +78,8 @@
           {% endfor %}
         {%- endif -%}
 
-        {%- if forloop.length > 1 -%}
-          {% if forloop.first == false %},&nbsp;{% endif %}
-          {{- author.first }} {{ author_last_html -}}
-        {% endif %}
+        {% if forloop.first == false %},&nbsp;{% endif %}
+        {{- author.first }} {{ author_last_html -}}
         {%- if author_is_self -%}
           <em>
             {{- author.first }}
