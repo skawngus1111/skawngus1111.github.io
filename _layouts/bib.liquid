@@ -357,5 +357,22 @@
         <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
       </div>
     {% endif %}
+
+    {%- for entry in bibliography -%}
+      <div class="bib-entry">
+        <div class="title">{{ entry.title }}</div>
+        <div class="author">
+          {% for author in entry.author_array %}
+            {% if forloop.first == false %}, {% endif %}
+            {{ author.first }} {{ author.last }}
+          {% endfor %}
+        </div>
+        <div class="periodical"><em>{{ entry.booktitle }}</em>, {{ entry.year }}</div>
+
+        {%- if entry.note -%}
+          <div class="award">🏆 <span class="award-text">{{ entry.note }}</span></div>
+        {%- endif -%}
+      </div>
+    {%- endfor -%}
   </div>
 </div>
