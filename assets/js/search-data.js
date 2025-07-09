@@ -118,7 +118,7 @@ ninja.data = [{
           section: "News",},{id: "news-ju-hyeon-nam-was-honored-with-the-bk21-top-researcher-award-in-inha-university",
           title: 'Ju-Hyeon Nam was honored with the BK21 Top Researcher Award in Inha University....',
           description: "",
-          section: "News",},{id: "news-his-first-author-paper-is-accepted-in-iccv2025-bk21-if-4-nam-j-h-moon-d-h-kim-s-j-amp-amp-lee-s-c-2025-m2sformer-multi-spectral-and-multi-scale-attention-with-edge-aware-difficulty-guidance-for-image-forgery-localization-in-proceedings-of-the-ieee-cvf-international-conference-on-computer-vision-announcement-211001-md",
+          section: "News",},{id: "news-his-first-author-paper-is-accepted-in-iccv2025-bk21-if-4-nam-j-h-moon-d-h-amp-amp-lee-s-c-2025-m2sformer-multi-spectral-and-multi-scale-attention-with-edge-aware-difficulty-guidance-for-image-forgery-localization-in-proceedings-of-the-ieee-cvf-international-conference-on-computer-vision-announcement-211001-md",
           title: 'His first author paper is accepted in ICCV2025 (BK21 IF:4), Nam, J. H.,...',
           description: "",
           section: "News",},{
