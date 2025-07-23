@@ -121,6 +121,9 @@ ninja.data = [{
           section: "News",},{id: "news-his-first-author-paper-is-accepted-in-iccv2025-bk21-if-4-nam-j-h-moon-d-h-amp-amp-lee-s-c-2025-m2sformer-multi-spectral-and-multi-scale-attention-with-edge-aware-difficulty-guidance-for-image-forgery-localization-in-proceedings-of-the-ieee-cvf-international-conference-on-computer-vision",
           title: 'His first author paper is accepted in ICCV2025 (BK21 IF:4), Nam, J. H.,...',
           description: "",
+          section: "News",},{id: "news-his-two-co-author-papers-are-accepted-in-miccai2025-workshop-ema-and-compayl",
+          title: 'His two co-author papers are accepted in MICCAI2025 Workshop (EMA and COMPAYL).',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
