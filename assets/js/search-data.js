@@ -124,6 +124,9 @@ ninja.data = [{
           section: "News",},{id: "news-his-two-co-author-papers-are-accepted-in-miccai2025-workshop-ema-and-compayl",
           title: 'His two co-author papers are accepted in MICCAI2025 Workshop (EMA and COMPAYL).',
           description: "",
+          section: "News",},{id: "news-his-first-paper-m2sformer-is-selected-as-a-highlight-paper-in-international-conference-on-computer-vision-iccv-2025-congratulations",
+          title: 'His first paper (M2SFormer) is selected as a Highlight Paper in International Conference...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
