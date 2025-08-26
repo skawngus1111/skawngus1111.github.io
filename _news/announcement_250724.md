@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-His ***first paper (M2SFormer)*** is selected as a ***Highlight Paper*** in International Conference on Computer Vision (ICCV) 2025. Congratulations!!
+His ***first author paper (M2SFormer)*** is selected as a ***Highlight Paper*** in International Conference on Computer Vision (ICCV) 2025. Congratulations!!
